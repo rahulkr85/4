@@ -15,3 +15,5 @@ else
 echo "Permission are different"
 echo $x
 echo $y
+fi
+fi
